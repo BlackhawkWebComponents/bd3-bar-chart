@@ -1,0 +1,7 @@
+{
+  "name": "bd3-bar-chart#gh-pages",
+  "private": true,
+  "dependencies": {
+    "bd3-bar-chart": "BlackhawkWebComponents/bd3-bar-chart#master"
+  }
+}
